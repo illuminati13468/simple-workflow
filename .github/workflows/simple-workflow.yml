@@ -1,5 +1,5 @@
 
-name: simple-workflow
+name: CI
 
 on:
   push:
